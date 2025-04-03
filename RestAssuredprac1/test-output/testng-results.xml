@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-27T16:31:09 IST" name="Default suite" finished-at="2025-02-27T16:31:13 IST" duration-ms="3895">
+    <groups>
+    </groups>
+    <test started-at="2025-02-27T16:31:09 IST" name="Default test" finished-at="2025-02-27T16:31:13 IST" duration-ms="3895">
+      <class name="com.rest.RestAssured.RestDemo">
+        <test-method signature="getUser()[pri:0, instance:com.rest.RestAssured.RestDemo@4445629]" started-at="2025-02-27T16:31:09 IST" name="getUser" finished-at="2025-02-27T16:31:13 IST" duration-ms="3838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- com.rest.RestAssured.RestDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
